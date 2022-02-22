@@ -1,8 +1,6 @@
-package com.anas.class02;
+package com.anas.class02.mammal;
 
-public class Cat {
+public class Cat extends Mammal {
 
-    private String name;
-    private String color;
-    private int age;
+
 }

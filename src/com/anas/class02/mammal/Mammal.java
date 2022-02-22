@@ -1,4 +1,4 @@
-package com.anas.class02;
+package com.anas.class02.mammal;
 
 public class Mammal {
 

@@ -1,4 +1,4 @@
-package com.anas;
+package com.anas.class02;
 
 public class Main {
 
