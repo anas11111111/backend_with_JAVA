@@ -11,6 +11,10 @@ public class Dog extends Mammal{
 //    public void setName(String name){
 //        this.name = name;
 //    }
+    public void eat(){
+        System.out.println("dog is eating meat");
+
+    }
 
     public static void main(String[] args) {
         Dog dog = new Dog("Kitty");
